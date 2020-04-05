@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716045998934",
+    "firebase_url": "https://catch-app-4ca99.firebaseio.com",
+    "project_id": "catch-app-4ca99",
+    "storage_bucket": "catch-app-4ca99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716045998934:android:c0b8ad4529c1f11d2594f7",
+        "android_client_info": {
+          "package_name": "com.anwarluck.fyp.catchyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716045998934-v6u3ig0lh6t4q5hl5um2ctr47jqsq58m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSm_tgy4jBOSv-ytdjSblHK5Fz6WHS2co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716045998934-v6u3ig0lh6t4q5hl5um2ctr47jqsq58m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
